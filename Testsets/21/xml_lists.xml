@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<expressions>
+  <expression>
+    <symbol id="58" />
+    <symbol id="56" />
+    <symbol id="57" />
+  </expression>
+  <expression>
+    <symbol id="63" />
+    <symbol id="64" />
+    <symbol id="59" />
+    <symbol id="60" />
+    <symbol id="61" />
+    <symbol id="62" />
+    <symbol id="65" />
+  </expression>
+  <expression>
+    <symbol id="69" />
+    <symbol id="67" />
+    <symbol id="70" />
+    <symbol id="71" />
+    <symbol id="66" />
+    <symbol id="68" />
+  </expression>
+  <expression>
+    <symbol id="76" />
+    <symbol id="73" />
+    <symbol id="72" />
+    <symbol id="75" />
+    <symbol id="74" />
+  </expression>
+  <expression>
+    <symbol id="79" />
+    <symbol id="77" />
+    <symbol id="78" />
+  </expression>
+  <expression>
+    <symbol id="81" />
+    <symbol id="85" />
+    <symbol id="84" />
+    <symbol id="82" />
+    <symbol id="80" />
+    <symbol id="88" />
+    <symbol id="89" />
+    <symbol id="90" />
+    <symbol id="86" />
+    <symbol id="87" />
+    <symbol id="83" />
+  </expression>
+  <expression>
+    <symbol id="97" />
+    <symbol id="91" />
+    <symbol id="98" />
+    <symbol id="99" />
+    <symbol id="92" />
+    <symbol id="100" />
+    <symbol id="93" />
+    <symbol id="101" />
+    <symbol id="94" />
+    <symbol id="95" />
+    <symbol id="96" />
+  </expression>
+  <expression>
+    <symbol id="103" />
+    <symbol id="102" />
+    <symbol id="105" />
+    <symbol id="107" />
+    <symbol id="104" />
+    <symbol id="108" />
+    <symbol id="106" />
+  </expression>
+  <expression>
+    <symbol id="111" />
+    <symbol id="112" />
+    <symbol id="113" />
+    <symbol id="115" />
+    <symbol id="109" />
+    <symbol id="116" />
+    <symbol id="110" />
+    <symbol id="114" />
+  </expression>
+  <expression>
+    <symbol id="117" />
+    <symbol id="118" />
+    <symbol id="119" />
+    <symbol id="120" />
+  </expression>
+</expressions>
+

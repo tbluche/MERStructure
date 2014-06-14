@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<expressions>
+  <expression>
+    <symbol id="5" />
+    <symbol id="6" />
+    <symbol id="7" />
+  </expression>
+  <expression>
+    <symbol id="8" />
+    <symbol id="10" />
+    <symbol id="11" />
+    <symbol id="12" />
+    <symbol id="9" />
+  </expression>
+  <expression>
+    <symbol id="15" />
+    <symbol id="13" />
+    <symbol id="16" />
+    <symbol id="14" />
+  </expression>
+  <expression>
+    <symbol id="19" />
+    <symbol id="17" />
+    <symbol id="20" />
+    <symbol id="18" />
+    <symbol id="21" />
+    <symbol id="22" />
+  </expression>
+  <expression>
+    <symbol id="24" />
+    <symbol id="26" />
+    <symbol id="23" />
+    <symbol id="25" />
+  </expression>
+  <expression>
+    <symbol id="27" />
+    <symbol id="28" />
+    <symbol id="31" />
+    <symbol id="29" />
+    <symbol id="30" />
+  </expression>
+  <expression>
+    <symbol id="34" />
+    <symbol id="33" />
+    <symbol id="35" />
+    <symbol id="32" />
+  </expression>
+  <expression>
+    <symbol id="36" />
+    <symbol id="37" />
+    <symbol id="38" />
+  </expression>
+  <expression>
+    <symbol id="42" />
+    <symbol id="39" />
+    <symbol id="40" />
+    <symbol id="41" />
+  </expression>
+  <expression>
+    <symbol id="46" />
+    <symbol id="43" />
+    <symbol id="44" />
+    <symbol id="45" />
+    <symbol id="47" />
+  </expression>
+</expressions>
+
